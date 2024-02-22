@@ -32,7 +32,7 @@ public class CreditCardPayingScreenBACKEND {
                 }
             }
         } else {
-            message = "CVVs may only have 3 digits.";
+            message = "CVVs may only have 3 numerical digits and cannot be blank.";
             
         }
 
